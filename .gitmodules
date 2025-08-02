@@ -1,0 +1,30 @@
+[submodule "MVEPlayer Grokv4 (take3)"]
+	path = MVEPlayer Grokv4 (take3)
+	url = git@github.com:QuantumApprentice/MVEPlayer-Grokv4-take3-.git
+[submodule "MVEPlayer Grokv4 (take2)"]
+	path = MVEPlayer Grokv4 (take2)
+	url = git@github.com:QuantumApprentice/MVEPlayer-Grokv4-take2-.git
+[submodule "MVEPlayer Grokv4 (take1)"]
+	path = MVEPlayer Grokv4 (take1)
+	url = git@github.com:QuantumApprentice/MVEPlayer-Grokv4-take1-.git
+[submodule "MVEPlayer Grokv4 (handing it falltergeist source)"]
+	path = MVEPlayer Grokv4 (handing it falltergeist source)
+	url = git@github.com:QuantumApprentice/MVEPlayer-Grokv4-handing-it-falltergeist-source-.git
+[submodule "MVEPlayer Grok3"]
+	path = MVEPlayer Grok3
+	url = git@github.com:QuantumApprentice/MVEPlayer-Grok3.git
+[submodule "MVEPlayer Gemini 2.5 Pro (except I forgot to give it access to the website correctly)"]
+	path = MVEPlayer Gemini 2.5 Pro (except I forgot to give it access to the website correctly)
+	url = git@github.com:QuantumApprentice/MVEPlayer-Gemini-2.5-Pro-except-I-forgot-to-give-it-access-to-the-website-correctly-.git
+[submodule "MVEPlayer Gemini 2.5 Pro"]
+	path = MVEPlayer Gemini 2.5 Pro
+	url = git@github.com:QuantumApprentice/MVEPlayer-Gemini-2.5-Pro.git
+[submodule "MVEPlayer Copilot.Microsoft"]
+	path = MVEPlayer Copilot.Microsoft
+	url = git@github.com:QuantumApprentice/MVEPlayer-Copilot.Microsoft.git
+[submodule "MVEPlayer Claude"]
+	path = MVEPlayer Claude
+	url = git@github.com:QuantumApprentice/MVEPlayer-Claude.git
+[submodule "MVEPlayer ChatGPT & Gemini"]
+	path = MVEPlayer ChatGPT & Gemini
+	url = git@github.com:QuantumApprentice/MVEPlayer-ChatGPT-Gemini.git

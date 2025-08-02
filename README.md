@@ -1,0 +1,1 @@
+git clone --recurse-submodules git@github.com:QuantumApprentice/LLM-testing---MVEPlayer.git

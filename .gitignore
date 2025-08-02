@@ -1,0 +1,14 @@
+# Ignore these directories
+# */*
+# build/
+**/.git
+# .vscode/
+
+# Do NOT ignore these directories
+# !**/keep_this_directory
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
