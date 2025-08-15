@@ -28,3 +28,6 @@
 [submodule "MVEPlayer ChatGPT & Gemini"]
 	path = MVEPlayer ChatGPT & Gemini
 	url = git@github.com:QuantumApprentice/MVEPlayer-ChatGPT-Gemini.git
+[submodule "MVEPlayer Meleneth"]
+	path = MVEPlayer Meleneth
+	url = git@github.com:meleneth/mveplayer.git
